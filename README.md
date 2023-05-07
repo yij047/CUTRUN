@@ -5,7 +5,7 @@
 bash download.sh
 # download the mm10 index files
 bash download_index.sh
-# build the apptainer
+# build the apptainer which contains rest of necessary packages
 # change `~/docker/src` in `build.sh` to the `src` directory created by the above scripts
 bash build.sh
 ```
