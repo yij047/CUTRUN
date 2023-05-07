@@ -5,7 +5,7 @@
 #SBATCH --mem=100G
 #SBATCH --mail-type=ALL
 
-# path to your yq built by build.sh
+# path to your yq folder built by build.sh
 image=/home/yj286/docker/yq
 # path to your samples
 dir=/home/yj286/project/CUTRUN/Sample_133T5KF
